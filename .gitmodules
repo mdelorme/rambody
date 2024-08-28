@@ -1,0 +1,6 @@
+[submodule "ramses_rambody"]
+	path = ramses_rambody
+	url = git@github.com:mdelorme/ramses_rambody.git
+[submodule "nbody6_rambody"]
+	path = nbody6_rambody
+	url = https://github.com/mdelorme/nbody6_rambody

@@ -17,7 +17,7 @@ All the original parts of both codes are subject to their own licenses. All modi
 The Rambody repository relies on two submodules defined in separate repositories which are the modified version of the two original codes. To start, clone the Rambody repository enabling submodules :
 
 ```
-git clone --recurse-submodules git@github.com:mdelorme/rambody.git .
+git clone --recurse-submodules git@github.com:mdelorme/rambody.git
 ```
 
 ## Compiling the codes
